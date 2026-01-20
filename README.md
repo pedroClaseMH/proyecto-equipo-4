@@ -1,4 +1,4 @@
 # Proyecto Base
 
-## Introducción
-Contiene los elementos mínimos a compartir con cada equipo
+## Equipo4
+El equipo 4 esta formado por: Joaquin Lopéz peréz, Ruben Ortiz León, Mario Zamanillo Tera y Mario Revilla Abarquero
