@@ -1,0 +1,13 @@
+CASO				RESULTADO				EJEMPLO
+positivo + positivo		positivo				4 + 2 = 6
+
+positivo + negativo		depende (positivo o negativo)		4 + -2 = 4   |  3 + -7 = -4    
+
+positivo + 0			positivo				6 + 0 = 6
+
+negativo + 0			negativo				-8 + 0 = -8
+
+negativo + negativo		negativo				-9 + -10 = -19
+
+
+
