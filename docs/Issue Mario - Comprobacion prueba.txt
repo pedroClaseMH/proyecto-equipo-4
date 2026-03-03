@@ -1,0 +1,28 @@
+# Comprobaciones para la prueba -->
+
+
+
+CASO:  intA:  intB:  Resultado:
+
+
+
+1\.        1      1       2
+
+2\.        1     -1       0
+
+3\.       -1     -1      -2
+
+4\.        0      0       0
+
+5\.        0      1       1
+
+6\.        0     -1      -1
+
+7\.   MAXvalue  MINvalue -1
+
+8\.   MINvalue  MAXvalue -1
+
+9\.   MAXvalue  MAXvalue -2
+
+10\.  MINvalue  MAXvalue  0
+
